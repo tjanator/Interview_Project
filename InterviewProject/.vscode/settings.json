@@ -5,6 +5,7 @@
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
-        "lib/**/*.jar"
+        "lib/**/*.jar",
+        "C:\\Users\\travi\\Documents\\GitHub\\Interview_Project\\InterviewProject\\lib\\junit-platform-console-standalone-1.9.0.jar"
     ]
 }

@@ -24,4 +24,5 @@ class mathTest {
 		assertArrayEquals("None".toCharArray(), InterviewProject.mathFunction(7,1,11).toCharArray());
 	}
 
+
 }
