@@ -5,6 +5,7 @@
 * @author travis hart
 *
 */
+
 Thanks for your time and consideration!
 
 I built this project using Eclipse, but it should work in VSCode or any other IDE (I didn't try with IntelliJ).
